@@ -2,7 +2,7 @@
 
 <br>Welcome to my web development journey! I'm Umer Farooq, and I'm thrilled to share my passion for crafting amazing online experiences with you. 🌟<be>
 
-## About Me
+# 💫 About Me:
 
 <br>I'm a web developer who's fascinated by the endless possibilities of technology. Every day, I get to dive into coding puzzles and create meaningful solutions that push the boundaries of what's possible in the digital world. 💻<be>
 
