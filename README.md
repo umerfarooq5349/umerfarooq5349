@@ -3,10 +3,15 @@
 # Web Development Adventures 🚀
 
 <br>Welcome to my web development journey! I'm Umer Farooq, and I'm thrilled to share my passion for crafting amazing online experiences with you. 🌟<br>
-<br>## About Me<br><br>I'm a web developer who's fascinated by the endless possibilities of technology. Every day, I get to dive into coding puzzles and create meaningful solutions that push the boundaries of what's possible in the digital world. 💻<br>
-<br># What I Do<br>
+<br>## About Me<br><br>I'm a web developer who's fascinated by the endless possibilities of technology. Every day, I get to dive into coding puzzles and create meaningful solutions that push the boundaries of what's possible in the digital world. 💻<be>
 
-<br>My focus is on building sleek and responsive websites, as well as optimizing backend systems for peak performance. But it's not just about the technical stuff – effective web development is all about understanding users and delivering solutions that truly resonate with them. 🌐<br><br>## Join Me!<br><br>I invite you to join me on this exciting journey! Together, we'll explore the latest trends in web development, dive into insightful tutorials, and uncover the secrets behind crafting compelling online experiences.<br><br>Let's unlock the full potential of the web and pave the way for a brighter, more interconnected future. <br><br>Are you ready? Let's get started! 🚀<br>
+# What I Do
+
+<br>My focus is on building sleek and responsive websites, as well as optimizing backend systems for peak performance. But it's not just about the technical stuff – effective web development is all about understanding users and delivering solutions that truly resonate with them. 🌐<be>
+
+# Join Me!
+
+<br>I invite you to join me on this exciting journey! Together, we'll explore the latest trends in web development, dive into insightful tutorials, and uncover the secrets behind crafting compelling online experiences.<br><br>Let's unlock the full potential of the web and pave the way for a brighter, more interconnected future. <br><br>Are you ready? Let's get started! 🚀<br>
 
 # 🌐 Socials:
 
